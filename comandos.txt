@@ -17,3 +17,4 @@ git checkout "codigo commit"---> volver a la version del commit cuyo codigo intr
 git merge "nombre rama" -----> unir ramas
 git clone (enlace del git a descargar)----> descarga el repositorio git en la carpeta en la cual estemos actualmente en la consola.
 git pull -----> actualizamos nuestra carpeta respecto al repositorio.
+COSAS 
