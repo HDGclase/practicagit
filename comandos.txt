@@ -1,0 +1,20 @@
+git init ---> inicializa el repositorio
+git status ---> Muestra el estado del repositorio
+git add ---> añade un archivo o carpeta al repositorio
+git add . ---> añadir todos los archivos al repositorio
+git add *.txt---> añadir todos los archivos .txt
+git reset ---> resetear
+git commit -m "comentario"-------->guarda los cambios
+git log ----> cambios y quien los hace
+git log --oneline ---> git log simplificado
+git reset --soft/hard identificador del commit ejemplo git reset --hard 433e4f5 ----> ELIMINA COMMIT
+cd --> desplazarse / navegar 
+cls ---> limpiar consola
+git branch---> indicar la rama del git en la que estamos
+git branch develop -----> crea la rama develop
+git checkout develop ----> cambiar de rama a la rama de desarrollo
+git checkout "codigo commit"---> volver a la version del commit cuyo codigo introducimos
+git merge "nombre rama" -----> unir ramas
+git clone (enlace del git a descargar)----> descarga el repositorio git en la carpeta en la cual estemos actualmente en la consola.
+git pull -----> actualizamos nuestra carpeta respecto al repositorio.
+COSAS 
